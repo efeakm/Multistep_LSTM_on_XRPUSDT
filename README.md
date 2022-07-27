@@ -30,8 +30,7 @@ Here white-red dots represent closing price of XRPUSDT. More the color is darker
 and blue dots below price represent long signals.
 
 ## 06_mt5_api.py
-Connects to metatrader5 account via metatrader5 python api and enters long/short positions according to predictions of the model. **Since the model was not profitable**,
-I did not finish this part but still there is a template that you can use.
+Connects to metatrader5 account via metatrader5 python api and enters long/short positions according to predictions of the model. I did not finish this part but still there is a template that you can use.
 
 
 
